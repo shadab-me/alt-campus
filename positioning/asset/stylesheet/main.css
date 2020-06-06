@@ -16,17 +16,21 @@ h1 {
   footer {
     margin-bottom: 0;
   }
-  .group{
-   display: table;
+  
+  .col-1-3 {
+    width: 30%;
   }
-  section{
-      float: left;
-      width: 30%;
-   }
-  aside{
-      clear: both;
+  .col-2-3 {
+    width: 30%;
   }
   
+.col-1-3,
+.col-2-3 {
+  display: inline-block;
+  }
+ 
+
+
   footer{
       clear: both;
   }

@@ -16,6 +16,9 @@ h1 {
   footer {
     margin-bottom: 0;
   }
+  .group{
+   display: table;
+  }
   section{
       float: left;
       width: 30%;

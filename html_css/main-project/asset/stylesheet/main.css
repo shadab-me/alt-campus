@@ -117,6 +117,12 @@ p a {
 .teaser a:hover h3 {
   color: #a9b2b9;
 }
+.teaser img {
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 22px;
+  max-width: 100%
+}
 .logo {
     border-top: 4px solid #648880;
     border-top: 4px solid #648880;
@@ -132,7 +138,15 @@ p a {
    text-transform: uppercase;
 
   }
-
+  .nav li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+  }
+  .nav li:last-child {
+    margin-right: 0;
+  }
+  
  
 .hero{
     clear: both;
@@ -226,6 +240,19 @@ p a {
   line-height: 33px;
 }
 
+.speaker-info {
+  border: 1px solid #dfe2e5;
+  border-radius: 5px;
+  margin-top: 88px;
+  padding: 22px 0;
+  text-align: center;
+}
+.col-2-3{
+  width: 66%;
+}
 
+.speaker {
+  margin-bottom: 44px;
+}
 
   

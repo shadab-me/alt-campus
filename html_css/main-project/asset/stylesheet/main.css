@@ -84,14 +84,8 @@ strong {
 cite, em {
   font-style: italic;
 }
-a:hover {
-  color: #a9b2b9;
-}
 a {
-  color: #648880;
-}
-a {
-  color: #648880;
+  color: #fff;
   text-decoration: none;
 }
 a:hover {
@@ -100,6 +94,7 @@ a:hover {
 p a {
   border-bottom: 1px solid #dfe2e5;
 }
+
 
 
 .grid{

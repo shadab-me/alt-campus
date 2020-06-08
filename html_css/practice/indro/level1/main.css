@@ -1,11 +1,12 @@
-h1{
-    font-size: 24px;
-    font-weight: 500;
-    color: blue;
-    background-color: black;
-
+body{
+    background-color: #333399;
 }
-p{
-    font-size: 14px;
-    color: pink;
+
+.heading {
+ background-color: white;
+ font-size: 24px;
+}
+#para{
+font-size: 14;
+color: white;
 }

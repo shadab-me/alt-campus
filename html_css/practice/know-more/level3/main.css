@@ -61,7 +61,9 @@ h2{
     font-size: 24px;
 }
 
-
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 hr{
     margin: 40px 0;
 }
@@ -91,7 +93,7 @@ span{
 span h3{
     margin: 20px;
     color: blue;
-    font-weight: bold;
+
 }
 .date{
     color:blue;

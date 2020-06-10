@@ -102,6 +102,7 @@ article{
      display: inline-block;
      margin: 66px 0px 40px 0px;
 }
+ 
 /* Blog */
 
 p{
@@ -155,9 +156,8 @@ span h3{
     height: 520px;
     margin: 10px 0 10px 0;
 }
-.nav{
-    width: 100%;
-}
+ 
+
 .creator{
     text-align: center;
     margin: 20px 0 0 0;
